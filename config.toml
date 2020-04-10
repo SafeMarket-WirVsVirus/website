@@ -8,15 +8,15 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "safeMarket - Zuhause Schlange stehen"
+    meta_og_title = "safeMarket"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
+    meta_og_url = "https://aaronkessler.de"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_description = "safeMarket - Zuhause Schlange stehen"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@jstask82"
+    meta_twitter_creator = "@jstask82"
 
 [[menu.main]]
 	name = "Funktionen"
@@ -39,5 +39,5 @@ theme = "hugo-hero-theme"
     weight = 4
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+  post = ":year/:month/:day/:slug/"
   pages = "/:filename/"
