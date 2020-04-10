@@ -932,7 +932,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1); }
+  border-top: 1px solid rgba(50, 33, 83, 0.1); }
 
 small,
 .small {
@@ -1004,10 +1004,10 @@ mark,
     border-bottom-width: 2px; }
 
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.05); }
+  background-color: rgba(50, 33, 83, 0.05); }
 
 .table-hover tbody tr:hover {
-  background-color: rgba(0, 0, 0, 0.075); }
+  background-color: rgba(50, 33, 83, 0.075); }
 
 .table-primary,
 .table-primary > th,
@@ -1100,13 +1100,13 @@ mark,
 .table-active,
 .table-active > th,
 .table-active > td {
-  background-color: rgba(0, 0, 0, 0.075); }
+  background-color: rgba(50, 33, 83, 0.075); }
 
 .table-hover .table-active:hover {
-  background-color: rgba(0, 0, 0, 0.075); }
+  background-color: rgba(39, 26, 65, 0.075); }
   .table-hover .table-active:hover > td,
   .table-hover .table-active:hover > th {
-    background-color: rgba(0, 0, 0, 0.075); }
+    background-color: rgba(39, 26, 65, 0.075); }
 
 .table .thead-dark th {
   color: #ffffff;
@@ -5571,7 +5571,7 @@ ol {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 120px; } }
+      width: 160px; } }
   .logo img {
     width: 100%;
     height: auto; }
@@ -5582,7 +5582,7 @@ ol {
 
 .logo-mobile {
   display: block;
-  width: 40px;
+  width: 45px;
   padding: 10px 0 10px 0; }
   @media (min-width: 576px) {
     .logo-mobile {
@@ -6022,7 +6022,9 @@ ul.social {
   .hero-image .hero-text {
     flex: 0;
     color: #00b19f;
-    margin: auto 0; }
+    margin: auto 0;
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 3em; }
     .hero-image .hero-text h1 {
       font-size: 3rem; }
       @media (min-width: 768px) {

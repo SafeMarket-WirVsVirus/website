@@ -1,8 +1,8 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "safeMarket"
 themesDir = "themes"
-theme = "safeMarket"
+theme = "hugo-hero-theme"
 
 [params]
   google_analytics_id=""
