@@ -19,23 +19,23 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Funktionen"
+	url = "/funktionen/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "Partner"
+    url = "/partner/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Über #wirvsvirus"
+    url = "/ueber/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Kontakt"
+    url = "/kontakt/"
     weight = 4
 
 [permalinks]
