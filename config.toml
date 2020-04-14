@@ -19,8 +19,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@jstask82"
 
 [[menu.main]]
-	name = "Funktionen"
-	url = "/funktionen/"
+	name = "Vorteile"
+	url = "/vorteile/"
     weight = 1
 
 [[menu.main]]

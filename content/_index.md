@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 date: 2018-02-12T15:37:57+07:00
-heroHeading: 'safeMarket -  Sicher einkaufen'
-heroSubHeading: 'Die SafeMarket-App hilft schlangen zu vermeiden'
+heroHeading: 'SafeMarket'
+heroSubHeading: 'Effektives und virenfreies Einkaufen – vor allem für Risikogruppen'
 heroBackground: 'images/gabrielle-ribeiro-EDztlsQAEIY-unsplash.jpg'
 ---
