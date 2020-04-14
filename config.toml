@@ -1,8 +1,20 @@
-baseURL = "/"
 languageCode = "de-de"
+DefaultContentLanguage = "de-de"
 title = "safeMarket"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+
+[languages]
+  [languages.de-de]
+    baseUrl = "/"
+    title = "SafeMarket"
+    weight = 0
+  [languages.en]
+    baseUrl = "en"
+    title = "SafeMarket"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
 
 [params]
   google_analytics_id=""
@@ -18,24 +30,44 @@ theme = "hugo-hero-theme"
     meta_twitter_site = "@jstask82"
     meta_twitter_creator = "@jstask82"
 
-[[menu.main]]
+[[languages.de-de.menu.main]]
 	name = "Vorteile"
 	url = "/vorteile/"
     weight = 1
 
-[[menu.main]]
+[[languages.de-de.menu.main]]
     name = "Partner"
     url = "/partner/"
     weight = 2
 
-[[menu.main]]
+[[languages.de-de.menu.main]]
     name = "Über #wirvsvirus"
     url = "/ueber/"
     weight = 3
 
-[[menu.main]]
+[[languages.de-de.menu.main]]
     name = "Kontakt"
     url = "/kontakt/"
+    weight = 4
+
+[[languages.en.menu.main]]
+	name = "Advantages"
+	url = "/advantages/"
+    weight = 1
+
+[[languages.en.menu.main]]
+    name = "Partners"
+    url = "/partner/"
+    weight = 2
+
+[[languages.en.menu.main]]
+    name = "About #wirvsvirus"
+    url = "/ueber/"
+    weight = 3
+
+[[languages.en.menu.main]]
+    name = "Contact"
+    url = "/contact/"
     weight = 4
 
 [permalinks]
