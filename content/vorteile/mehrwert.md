@@ -10,8 +10,10 @@ heroSubHeading: 'Der Beitrag von SafeMarket'
 heroBackground: 'services/service1.jpg'
 ---
 
-Einkaufen muss jeder. Das führt dazu, dass dort viele Personen aufeinandertreffen und in Warteschlangen ein hohes Infektionsrisiko besteht. Mit einer Reservierung über SafeMarket entfällt die Wartezeit. Das heißt: mehr Zeit für anderes, ein geringeres Infektionsrisiko und gerade für arbeitende Personen die Sicherheit, dass sie pünktlich einkaufen können. 
+Einkaufen muss jeder. Das führt dazu, dass viele Personen vor Ihrem Geschäft aufeinandertreffen, sich Warteschlangen bilden und eine hohe Ansteckungsgefahr besteht.
+Mit einer Reservierung über SafeMarket entfällt die Wartezeit.
+Das bedeutet: eine höhere Kundenzufriedenheit, ein verringertes Infektionsrisiko und bessere Planbarkeit für Ihre Kunden.
 
-Auch wenn in Zeiten von Corona viele Risikogruppen Unterstützung von Ehrenamtlichen erhalten, trifft dies nicht auf die breite Bevölkerung zu. Ältere Personen haben die Angewohnheit, lokal und häufig einzukaufen, und nutzen digitale Medien seltener. Daher bietet SafeMarket neben der App auch einen geplanten Telefonservice. So erreicht SafeMarket möglichst viele Bürger:innen. Das reduziert das Infektionsrisiko für alle und vermeidet den aufkommenden Frust in einer langen, kalten Warteschlange - auch nach Corona.
-
-
+SafeMarket bietet neben der App für digitalaffine Personen auch einen geplanten Telefonservice, um auch Ihre ältere Kundschaft zu unterstützen.
+Die ehrenamtlichen Ressourcen sind begrenzt.
+Ermöglichen Sie Ihren Kunden die Hilfe zur Selbsthilfe.

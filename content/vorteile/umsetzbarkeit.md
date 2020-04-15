@@ -5,19 +5,25 @@ icon: 'services/service-icon-3.png'
 featured: true
 draft: false
 heroHeading: 'Umsetzbarkeit'
-heroSubHeading: 'Felxibel dank algilem Projektmanagement'
+heroSubHeading: 'Ein enger Austausch ist uns wichtig'
 heroBackground: 'services/service1.jpg'
 ---
 
-Wir haben die MVP-Version unserer App für die Endkunden bereits im Google PlayStore, die iOS-Version ist wird ebenfalls entwickelt. SafeMarket bietet bereits für ausgewählte Märkte ein Tutorial mit folgenden Funktionalitäten an:
+Die MVP-Version unserer App für Ihre Kunden können Sie bereits im Google PlayStore testen. Die iOS-Version ist ebenfalls in der Entwicklung.
+SafeMarket bietet bereits für ausgewählte Märkte ein Tutorial mit folgenden Funktionalitäten an:
 
-* Märkte finden und Wählen
-* Timeslosts reservieren
-* Übersichftfunktion bereits reservierter Termine
-* Terminverwaltung
-* Einkauferinnerung
+* Märkte finden und auswählen
+* Einlasszeit buchen
+* Übersichtsfunktion bereits gebuchte Einlasszeiten
+* Einlasszeit stornieren
+* Einkaufserinnerung
 * QR-Generierung
 
-Die wesentliche Hürde ist die nötige Geschwindigkeit und Verbreitung: Der essentielle nächste Schritt ist daher eine Kooperation mit Supermärkten, um unsere Lösung im kleinen Rahmen zu testen. Dieses Feedback hilft uns SafeMarket an die Bedürfnisse der Märkte anzupassen.
+Der essentielle nächste Schritt ist eine Kooperation mit Ihnen, um unsere Lösung unter realen Bedingungen zu testen. Ihr Feedback is wichtig, um SafeMarket auf Ihre Bedürfnisse abzustimmen.
 
-Aktuell entwickeln wir das Backoffice für die Märkte. Dort können Anbieter Ihren Store konfiguireren wie zum Beispiel Öffnungszeiten, Marktkapazitäten (Marktbesucher, Einkaufsdauer, Timeslot-Verwaltung).
+SafeMarket erlaubt die folgenden Eigenschaften für ihre Geschäfte zu konfigurieren:
+
+- Öffnungszeiten
+- Verfügbare Kundenkapazität 
+- empfohlene und maximale Einkaufsdauer Ihrer Kunden
+- Berücksichtigung von Laufkundschaft
