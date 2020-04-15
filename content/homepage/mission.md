@@ -8,4 +8,4 @@ buttonLink: 'vorteile'
 
 ### #FLATTEN THE CURVE
 
-Durch unsere Reservierungsplattform können Kunden einen freien Slot außerhalb der Stoßzeiten zum Einkaufen reservieren. Am Laden angekommen, kann sie mit ihrem QR Code an der Schlange der Wartenden vorbei und den Supermarkt sofort betreten. Nur eine kurze Zeit später ist der Einkauf erledigt, ohne dabei lange warten zu müssen oder übermäßiger Exposition zu Mitmenschen ausgesetzt gewesen zu sein.
+Mit SafeMarket können sich Kunden digital einen Zeitraum zum Einkaufen bei ihrem lokalen Supermarkt reservieren. Am Laden angekommen, kann der Kunde seinen QR Code vorzeigen und kommt an der Schlange der Wartenden vorbei. So kann er den Supermarkt sofort betreten. Nur kurze Zeit später ist der Einkauf erledigt - ohne lange Wartezeiten oder unnötiges Infektionsrisiko in Menschenmengen.
