@@ -1,7 +1,7 @@
 ---
 title: 'Als Markt noch nicht dabei?'
-weight: 3
-background: 'https://images.unsplash.com/photo-1521566652839-697aa473761a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80'
+weight: 4
+background: 'images/photo-1521566652839-697aa473761a.jpg'
 button: 'Jetzt Registieren'
 buttonLink: '#'
 ---

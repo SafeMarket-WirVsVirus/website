@@ -7,6 +7,10 @@
   height: 400px;
   position: relative;
   padding-top: 60px;
+  &--no-overlay {
+    background-blend-mode: initial;
+    background-color: initial;
+  }
   .container {
     height: 100%;
     display: flex;
@@ -19,6 +23,7 @@
   .hero-text {
     flex: 0;
     color: $white;
+    text-shadow: 0 0 3em #000;
     margin: auto 0;
     h1 {
       font-size: 3rem;
