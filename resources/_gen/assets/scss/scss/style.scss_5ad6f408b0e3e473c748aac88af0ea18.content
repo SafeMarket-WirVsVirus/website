@@ -6018,6 +6018,9 @@ ul.social {
   height: 400px;
   position: relative;
   padding-top: 60px; }
+  .hero-image--no-overlay {
+    background-blend-mode: initial;
+    background-color: initial; }
   .hero-image .container {
     height: 100%;
     display: flex;
@@ -6028,6 +6031,7 @@ ul.social {
   .hero-image .hero-text {
     flex: 0;
     color: #ffffff;
+    text-shadow: 0 0 3em #000;
     margin: auto 0; }
     .hero-image .hero-text h1 {
       font-size: 3rem; }

@@ -1,6 +1,6 @@
 ---
 title: 'Welches konkrete Problem lösen wir?'
-weight: 4
+weight: 3
 background: ''
 button: 'Erfahre mehr'
 buttonLink: 'vorteile'
