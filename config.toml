@@ -6,7 +6,7 @@ theme = "hugo-hero-theme"
 
 [languages]
   [languages.de-de]
-    baseUrl = "/"
+    baseUrl = "de-de"
     title = "SafeMarket"
     weight = 0
   [languages.en]
