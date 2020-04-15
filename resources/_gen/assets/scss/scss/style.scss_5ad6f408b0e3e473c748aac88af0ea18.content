@@ -5606,7 +5606,10 @@ ol {
     justify-content: flex-start; }
     .main-menu > ul > li {
       list-style: none;
-      font-size: 0.9rem; }
+      font-size: 0.9rem;
+      margin: 0 5px; }
+      .main-menu > ul > li:last-of-type {
+        margin-right: 0; }
       .main-menu > ul > li > a {
         padding: .5em 1.5em;
         display: inline-block;
