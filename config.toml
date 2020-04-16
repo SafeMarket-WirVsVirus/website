@@ -3,14 +3,13 @@ DefaultContentLanguage = "de-de"
 title = "safeMarket"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+baseUrl = "/"
 
 [languages]
   [languages.de-de]
-    baseUrl = "de-de"
     title = "SafeMarket"
     weight = 0
   [languages.en]
-    baseUrl = "en"
     title = "SafeMarket"
     weight = 1
 
