@@ -5,4 +5,5 @@ heroHeading: 'Your Advantages with SafeMarket'
 heroSubHeading: 'The first line you can take online - without risk of infection'
 heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
 url: 'advantages'
+menu: 'main'
 ---

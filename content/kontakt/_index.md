@@ -1,6 +1,7 @@
 ---
 title: 'Mitmachen'
 date: 2018-02-22T17:01:34+07:00
+menu: 'main'
 ---
 
 ## Du bist Marktbesitzer und möchtest unser System nutzen?

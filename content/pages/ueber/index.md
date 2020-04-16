@@ -5,6 +5,7 @@ layout: 'aboutlayout'
 heroHeading: 'Über #wirvsvirus'
 heroSubHeading: "In der Corankriese haben wir uns zusamengefunden um gemeinsam Lösungen für Alle zu Entwickeln"
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+menu: 'main'
 ---
 
 <div>
