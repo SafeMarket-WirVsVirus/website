@@ -7,8 +7,8 @@ menu:
 ---
 
 ## Du bist Marktbesitzer und möchtest unser System nutzen?
-lorem ipsum dolor sit amet
-## Du möchtest die Entwicklung unterstützen
-Komm zu uns in ins Discord
+Direkt loslegen und einer der ersten Märkte sein die SafeMarket nutzen.
+## Du möchtest die Entwicklung aktiv unterstützen
+Bewirb dich bei uns via Mail und gib am besten einen kurzen Ausblick wie du uns helfen kannst. 
 ## Du möchtest auf anderem Weg helfen?
 Wir freuen uns über deine Spende
