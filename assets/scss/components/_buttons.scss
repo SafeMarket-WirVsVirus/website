@@ -12,6 +12,10 @@
   -webkit-transition: all 0.15s ease;
   transition: all 0.15s ease;
   border-radius: 1000px;
+  margin-bottom: 1em;
+  &:last-of-type {
+    margin-bottom: initial;
+  }
   &:hover {
     color: $white;
     background-color: $primary-light;

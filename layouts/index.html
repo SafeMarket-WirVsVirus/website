@@ -57,16 +57,16 @@
 {{end}}
 
 {{ range first 1 $reusablePages }}
-<div id="home" class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
+<div id="home" class="strip bg-cover bg-position-top-right bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
   <div class="container pt-17 pb-17">
     <div class="row">
-      <div class="col-12 offset-4 col-md-6 offset-md-6">
+      <div class="col-12 col-md-6 offset-md-6 column-container">
         <h2>{{ .Title }}</h2>
         <p>{{ .Content }}</p>
         <a class="button" href="{{ .Params.buttonLink1 | relURL }}">{{ .Params.button1 }}</a>
-        <a class="button" href="{{ .Params.buttonLink2 | relURL }}">{{ .Params.button2 }}</a>
+<!--         <a class="button" href="{{ .Params.buttonLink2 | relURL }}">{{ .Params.button2 }}</a>
         <a class="button" href="{{ .Params.buttonLink3 | relURL }}">{{ .Params.button3 }}</a>
-      </div>
+ -->      </div>
     </div>
   </div>
 </div>

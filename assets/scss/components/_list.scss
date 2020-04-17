@@ -1,0 +1,9 @@
+.content ul {
+    & li::before {
+        content: '■';
+        color: $primary;
+        display: inline-block;
+        width: 1.5em;
+        margin-left: -1em;
+    }
+}
