@@ -96,25 +96,3 @@
 //     }
 //   }
 // }
-
-div[class=service-content] {
-    ul {
-        // @extend .list-group;
-        color: #666;
-        font-weight: 400;
-        font-size: 0.9rem;
-        padding-left: 10%;
-    }
-
-    li {
-        // @extend .list-group-item;
-        color: #666;
-        font-weight: 400;
-        font-size: 0.9rem;
-        list-style: circle;
-    }
-}
-
-ul ~ p {
-    margin-top: 1rem;
-}
