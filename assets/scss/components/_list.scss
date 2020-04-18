@@ -7,3 +7,32 @@
         margin-left: -1em;
     }
 }
+
+div[class='service-content'] {
+    ul {
+        // @extend .list-group;
+        color: $secondary;
+        font-weight: 400;
+        font-size: 0.9rem;
+        padding-left: 10%;
+        & li::before {
+            content: '■';
+            color: $primary;
+            display: inline-block;
+            width: 1.5em;
+            margin-left: -1em;
+        }
+    }
+
+/*     li {
+        // @extend .list-group-item;
+        color: $secondary;
+        font-weight: 400;
+        font-size: 0.9rem;
+        list-style: circle;
+    } */
+}
+
+ul ~ p {
+    margin-top: 1rem;
+}

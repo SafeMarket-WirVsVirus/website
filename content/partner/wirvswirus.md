@@ -6,7 +6,7 @@ weight: 1
 heroHeading: '#WirvsVirus'
 heroSubHeading: 'Der Hackathon der Bundesregierung'
 #heroBackground: 'partner/wirvsvirus.jpg'
-thumbnail: 'partner/wirvsvirus.jpg'
+thumbnail: 'images/wirvsvirus-hackathon.jpg'
 ---
 
 Gemeinsam mit der Bundesregierung hat #wirvswirus einen digitalen Beteiligungsprozess in der Corona-Krise geschaffen. In 48 Stunden haben sie 28.361 Menschen zusammengebracht, die an über 1.500 Lösungen gearbeitet haben.  

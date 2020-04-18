@@ -1,9 +1,9 @@
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center 45%;
-  background-blend-mode: overlay;
-  background-color: rgba(#00f2a8, .5);
+  background-position: center;
+  background-blend-mode: luminosity;
+  background-color: $primary-light;
   height: 400px;
   position: relative;
   padding-top: 60px;
