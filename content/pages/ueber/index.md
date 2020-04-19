@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'Über #wirvsvirus'
 heroSubHeading: "In der Coronakrise haben wir uns zusamengefunden, um gemeinsam Lösungen für Alle zu entwickeln"
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroBackground: 'images/evgeni-tcherkasski-0pPyrly3H2U-unsplash.jpg'
 menu:
   main:
     weight: 30
