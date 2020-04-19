@@ -12,5 +12,3 @@ Bleib mit uns in Kontakt und seu einer der ersten Märkte die SafeMarket nutzen.
 Bewirb dich bei uns via Mail und gib am besten einen kurzen Ausblick wie du uns helfen kannst. 
 ## Du möchtest auf anderem Weg helfen?
 Wir freuen uns über deine Spende.
-
-Bitte ersetze bei bei E-Mail Addresse das "(at)" durch "@".
