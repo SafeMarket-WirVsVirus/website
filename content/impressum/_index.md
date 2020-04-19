@@ -13,7 +13,8 @@ Marlene Eisenträger
 safemarket.wirvsvirus@gmail.com
                         
 # Assets
-Icons von [Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev).
+Icons von [Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev).  
+Handy im Hero-Composing (Startseite) [erstellt von freepik](https://www.freepik.com/free-vector/realistic-instagram-photo-frame-iphone_4134622.htm).
  
 # Nutzungsrechte
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Ein Download oder Ausdruck dieser Veröffentlichungen ist ausschließlich für den persönlichen Gebrauch gestattet. Alle darüber hinaus gehenden Verwendungen, insbesondere die kommerzielle Nutzung und Verbreitung, sind grundsätzlich nicht gestattet und bedürfen der schriftlichen Genehmigung.
