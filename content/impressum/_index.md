@@ -6,19 +6,13 @@ draft: false
 
 ## Ansprechpartner
 ### Teilnehmer des Projekts „SafeMarket“:
-Sonja Ochotta
-
+Sonja Ochotta  
 Marlene Eisenträger
 
 ## Ihr Kontakt über Mail: 
-safemarket.wirvsvirus(at)gmail.com
-
-## Hinweis: 
-Um Spam-E-Mails zu minimieren, haben wir das »@« in den angegebenen Mail-Adressen durch »(at)« ersetzt. Bitte verwenden Sie wieder das »@«, wenn Sie uns kontaktieren möchten.
+safemarket.wirvsvirus@gmail.com
                         
-# Bildquellen
-Alle Bilder und Grafiken auf der Website unterliegen dem Schutz des deutschen Urheberrechts und sind – soweit nicht anders angegeben – Eigentum der jeweiligen Projektpartner.
-
+# Assets
 Icons von [Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev).
  
 # Nutzungsrechte
