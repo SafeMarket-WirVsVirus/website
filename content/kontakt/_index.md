@@ -7,8 +7,10 @@ menu:
 ---
 
 ## Du bist Marktbesitzer und möchtest unser System nutzen?
-Direkt loslegen und einer der ersten Märkte sein die SafeMarket nutzen.
+Bleib mit uns in Kontakt und seu einer der ersten Märkte die SafeMarket nutzen.
 ## Du möchtest die Entwicklung aktiv unterstützen
 Bewirb dich bei uns via Mail und gib am besten einen kurzen Ausblick wie du uns helfen kannst. 
 ## Du möchtest auf anderem Weg helfen?
-Wir freuen uns über deine Spende
+Wir freuen uns über deine Spende.
+
+Bitte ersetze bei bei E-Mail Addresse das "(at)" durch "@".

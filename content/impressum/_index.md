@@ -6,9 +6,9 @@ draft: false
 
 ## Ansprechpartner
 ### Teilnehmer des Projekts „SafeMarket“:
-Sonja Ochotta  
-Marlene Eisenträger  
-Weitere...
+Sonja Ochotta
+
+Marlene Eisenträger
 
 ## Ihr Kontakt über Mail: 
 safemarket.wirvsvirus(at)gmail.com
@@ -18,6 +18,8 @@ Um Spam-E-Mails zu minimieren, haben wir das »@« in den angegebenen Mail-Adres
                         
 # Bildquellen
 Alle Bilder und Grafiken auf der Website unterliegen dem Schutz des deutschen Urheberrechts und sind – soweit nicht anders angegeben – Eigentum der jeweiligen Projektpartner.
+
+Icons von [Vitaly Gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev).
  
 # Nutzungsrechte
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Ein Download oder Ausdruck dieser Veröffentlichungen ist ausschließlich für den persönlichen Gebrauch gestattet. Alle darüber hinaus gehenden Verwendungen, insbesondere die kommerzielle Nutzung und Verbreitung, sind grundsätzlich nicht gestattet und bedürfen der schriftlichen Genehmigung.
