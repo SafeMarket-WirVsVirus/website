@@ -5,6 +5,8 @@
         <div class="footer-inner">
           <ul class="footer-menu">
             <li><a href="{{ "/" | absLangURL }}">Home</a></li>
+            <li><a href="{{ .Site.BaseURL }}impressum">Impressum</a></li>
+            <li><a href="{{ .Site.BaseURL }}datenschutz">Datenschutzerklärung</a></li>
             <li><a href="{{ .Site.BaseURL }}kontakt">Kontakt</a></li>
             <li class="copyright">© {{ now.Format "2006" }} {{.Site.Title}}</li>
           </ul>
