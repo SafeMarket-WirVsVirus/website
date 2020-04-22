@@ -17,15 +17,12 @@ baseUrl = "/"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "safeMarket - Zuhause Schlange stehen"
-    meta_og_title = "safeMarket"
+    meta_description = "SafeMarket - Zuhause Schlange stehen"
+    meta_og_title = "SafeMarket"
     meta_og_type = "website"
-    meta_og_url = "https://aaronkessler.de"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "safeMarket - Zuhause Schlange stehen"
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@jstask82"
-    meta_twitter_creator = "@jstask82"
+    meta_og_url = "https://safemarket.onrender.com"
+    meta_og_image = "https://safemarket.onrender.com/images/logo.svg"
+    meta_og_description = "SafeMarket - Zuhause Schlange stehen"
 
 [permalinks]
   post = ":year/:month/:day/:slug/"
