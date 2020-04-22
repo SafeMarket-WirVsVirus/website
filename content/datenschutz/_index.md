@@ -4,17 +4,15 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 ---
 
-**:x: noch zu klären**
-
 # Datenschutzerklärung
 
 Mit dieser Datenschutzerklärung möchten wir Sie über Art, Umfang und Zweck der Verarbeitung von personenbezogenen Daten auf unserer Webseite aufklären. Personenbezogene Daten sind alle Daten, die einen persönlichen Bezug zu Ihnen aufweisen, z. B. Name, Adresse, E-Mail-Adresse oder Nutzerverhalten.
 *****
 ## Wer bei uns für die Datenverarbeitung verantwortlich ist 
-Sonja Ochotta :x:
+Sonja Ochotta
 *****
 ## Webhosting 
-Wir bedienen uns zum Vorhalten unserer Onlinepräsenz eines Internet-Service-Providers, auf dessen Server die Webseite gespeichert wird (Hosting) und der unsere Seite im Internet verfügbar macht. Hierbei verarbeitet der Internet-Service-Provider in unserem Auftrag Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Bestandsdaten sowie Meta- und Kommunikationsdaten. Name und Anschrift des Internet-Service-Providers: :x: Render Services Inc (San Francisco, California, United States) Dessen Datenschutzbestimmungen können Sie hier einsehen: :x: [Render Service, Inc.](https://render.com/privacy) 
+Wir bedienen uns zum Vorhalten unserer Onlinepräsenz eines Internet-Service-Providers, auf dessen Server die Webseite gespeichert wird (Hosting) und der unsere Seite im Internet verfügbar macht. Hierbei verarbeitet der Internet-Service-Provider in unserem Auftrag Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Bestandsdaten sowie Meta- und Kommunikationsdaten. Name und Anschrift des Internet-Service-Providers: Render Services Inc (San Francisco, California, United States) Dessen Datenschutzbestimmungen können Sie hier einsehen: [Render Service, Inc.](https://render.com/privacy) 
 * **Rechtsgrundlage:** Der Internet-Service-Provider verarbeitet die vorgenannten Daten in unserem Auftrag, Art. 28 DSGVO. Die Datenverarbeitung erfolgt auf Grund unseres berechtigten Interesses an einer effizienten und sicheren Bereitstellung unseres Internetangebotes ein, Art. 6 Abs. 1 lit. f) DSGVO.
 
 Sofern Sie unsere Webseite lediglich informatorisch nutzen, werden von unserem Internet-Service-Provider nur diejenigen personenbezogenen Daten erhoben, die der von Ihnen verwendete Browser an dessen Server übermittelt. Das sind folgende Daten: 
@@ -23,14 +21,14 @@ Sofern Sie unsere Webseite lediglich informatorisch nutzen, werden von unserem I
 * Zeitzonendifferenz zur Greenwich Mean Time (GMT) 
 * Zugriffsstatus (HTTP-Status) 
 * die übertragene Datenmenge 
-* der Internet-Service-Provider des zugreifenden Systems :x: Render der von Ihnen verwendete Browsertyp und dessen Version 
+* der Internet-Service-Provider "Render" der von Ihnen verwendete Browsertyp und dessen Version 
 * das von Ihnen verwendete Betriebssystem 
 * die Internetseite, von welcher Sie gegebenenfalls auf unsere Internetseite gelangt sind 
 * die Seiten bzw. Unterseiten, welche Sie auf unserer Internetseite besuchen. 
 
 Die vorgenannten Daten werden als Logfiles auf den Servern unseres Internet-Service-Providers gespeichert. Dies ist erforderlich, um die Webseite auf dem von Ihnen genutzten Endgerät darstellen zu können, sowie die Stabilität und Sicherheit zu gewährleisten. In den vorstehenden Zwecken liegt unser berechtigtes Interesse an der Datenverarbeitung. 
 * **Rechtsgrundlage:** Die Datenverarbeitung erfolgt auf Grund unseres berechtigten Interesses an einer effizienten und sicheren Bereitstellung unseres Internetangebotes ein, Art. 6 Abs. 1 lit. f) DSGVO. 
-* **Dauer:** Die vorstehenden Daten zur Bereitstellung unserer Webseite werden für die Dauer von 99:x: Tagen gespeichert und dann gelöscht.
+* **Dauer:** Die vorstehenden Daten zur Bereitstellung unserer Webseite werden für die Dauer der zweckgerechten Verarbeitung gespeichert und dann gelöscht.
 *****
 ## Angaben zu den von uns vorgehaltenen Kontaktaufnahmemöglichkeiten 
 Soweit Sie uns über E-Mail, Soziale Medien, Telefon, Fax, Post, unser Kontaktformular oder sonstwie ansprechen und uns hierbei personenbezogene Daten wie Ihren Namen, Ihre Telefonnummer oder Ihre E-Mail-Adresse zur Verfügung stellen oder weitere Angaben zur Ihrer Person oder Ihrem Anliegen machen, werden diese Daten zur Verarbeitung Ihrer Anfrage in unserem Hause gespeichert und weiterverarbeitet. 
@@ -95,4 +93,4 @@ Wir treffen im Übrigen technische und organisatorische Sicherheitsmaßnahmen na
 
 *****
 ## Aktualität und Änderung dieser Datenschutzerklärung
-Diese Datenschutzerklärung ist aktuell gültig und hat den Stand April 2020. Aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung anzupassen. Diese Datenschutzerklärung wurde mit Hilfe von SOS Recht erstellt. Den Datenschutz-Erklärungsgenerator finden Sie [hier](https://sos-recht.de/datenschutz/dsgvo-datenschutz-generator/) :x:. SOS Recht ist ein Angebot der Mueller.legal Rechtsanwälte Partnerschaft mit Sitz in Berlin.
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand April 2020.
