@@ -12,7 +12,7 @@ Mit dieser Datenschutzerklärung möchten wir Sie über Art, Umfang und Zweck de
 Sonja Ochotta
 *****
 ## Webhosting 
-Wir bedienen uns zum Vorhalten unserer Onlinepräsenz eines Internet-Service-Providers, auf dessen Server die Webseite gespeichert wird (Hosting) und der unsere Seite im Internet verfügbar macht. Hierbei verarbeitet der Internet-Service-Provider in unserem Auftrag Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Bestandsdaten sowie Meta- und Kommunikationsdaten. Name und Anschrift des Internet-Service-Providers: Render Services Inc (San Francisco, California, United States) Dessen Datenschutzbestimmungen können Sie hier einsehen: [Render Service, Inc.](https://render.com/privacy) 
+Wir bedienen uns zum Vorhalten unserer Onlinepräsenz eines Internet-Service-Providers, auf dessen Server die Webseite gespeichert wird (Hosting) und der unsere Seite im Internet verfügbar macht. Hierbei verarbeitet der Internet-Service-Provider in unserem Auftrag Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Bestandsdaten sowie Meta- und Kommunikationsdaten. Name und Anschrift des Internet-Service-Providers: IBM Deutschland GmbH  (71137 Ehningen) Dessen Datenschutzbestimmungen können Sie hier einsehen: [IBM Deutschland GmbH](https://www.ibm.com/privacy/de/de/) 
 * **Rechtsgrundlage:** Der Internet-Service-Provider verarbeitet die vorgenannten Daten in unserem Auftrag, Art. 28 DSGVO. Die Datenverarbeitung erfolgt auf Grund unseres berechtigten Interesses an einer effizienten und sicheren Bereitstellung unseres Internetangebotes ein, Art. 6 Abs. 1 lit. f) DSGVO.
 
 Sofern Sie unsere Webseite lediglich informatorisch nutzen, werden von unserem Internet-Service-Provider nur diejenigen personenbezogenen Daten erhoben, die der von Ihnen verwendete Browser an dessen Server übermittelt. Das sind folgende Daten: 
@@ -21,7 +21,7 @@ Sofern Sie unsere Webseite lediglich informatorisch nutzen, werden von unserem I
 * Zeitzonendifferenz zur Greenwich Mean Time (GMT) 
 * Zugriffsstatus (HTTP-Status) 
 * die übertragene Datenmenge 
-* der Internet-Service-Provider "Render" der von Ihnen verwendete Browsertyp und dessen Version 
+* der Internet-Service-Provider "IBM Cloud" der von Ihnen verwendete Browsertyp und dessen Version 
 * das von Ihnen verwendete Betriebssystem 
 * die Internetseite, von welcher Sie gegebenenfalls auf unsere Internetseite gelangt sind 
 * die Seiten bzw. Unterseiten, welche Sie auf unserer Internetseite besuchen. 
@@ -93,4 +93,4 @@ Wir treffen im Übrigen technische und organisatorische Sicherheitsmaßnahmen na
 
 *****
 ## Aktualität und Änderung dieser Datenschutzerklärung
-Diese Datenschutzerklärung ist aktuell gültig und hat den Stand April 2020.
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand April 2020. Aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung anzupassen. Diese Datenschutzerklärung wurde mit Hilfe von SOS Recht erstellt. Den Datenschutz-Erklärungsgenerator finden Sie [hier](https://sos-recht.de/datenschutz/dsgvo-datenschutz-generator/). SOS Recht ist ein Angebot der Mueller.legal Rechtsanwälte Partnerschaft mit Sitz in Berlin.
