@@ -1,0 +1,30 @@
+<div id="main-menu" class="main-menu">
+  <ul class="nav-list">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+      <a href="{{.URL}}">
+        {{ .Pre }}
+        <span>{{ .Name }}</span>
+      </a>
+    </li>
+    {{end}}
+  </ul>
+  <ul class=lang-list>
+  {{ $siteLanguages := site.Languages}}
+  {{ $pageLang := .Page.Lang}}
+  {{- range .Page.AllTranslations }}
+      {{ $translation := . }}
+      {{- range sort $siteLanguages "Weight" "asc" }}
+          {{- if eq $translation.Lang .Lang }}
+              {{ if eq $pageLang .Lang}}
+                  <li><a class="lang--selected" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageName }}</a></li>
+              {{ else }}
+                  <li><a class="lang" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageName }}</a></li>
+              {{ end }}
+          {{- end }}
+      {{- end }}
+  {{- end }}
+  </ul>
+  
+</div>
