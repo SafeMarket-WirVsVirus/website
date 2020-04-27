@@ -1,5 +1,3 @@
-Build in main directory:
-HUGO_DISABLELANGUAGES="en" hugo --gc --minify -b https://safemarket.info/
 Build container:
 cd ..
 sudo docker build website -t website
