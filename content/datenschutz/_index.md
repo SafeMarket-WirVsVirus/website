@@ -85,7 +85,19 @@ Instagram ist ein Dienst der Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025 
 * Datenschutzerklärung abrufbar unter: [https://help.instagram.com/155833707900388](https://help.instagram.com/155833707900388) 
 * Opt-Out: [http://instagram.com/about/legal/privacy](http://instagram.com/about/legal/privacy/)
 
+#### Facebook
+Facebook ist ein Dienst der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304 – USA. Sitz in der EU: Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 – Irland
+* Datenschutzerklärung abrufbar unter: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+* Opt-Out:& [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads) und [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/)
+* Privacy Shield: [https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active)
+
+#### LinkedIn
+LinkedIn ist ein Dienst der LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043 - USASitz in der EU: LinkedIn, Hofstatt 4th Floor, Sendlinger Str. 12, 80331 München - Germany
+* Datenschutzerklärung abrufbar unter: [https://www.linkedin.com/legal/privacy-policy?trk=uno-reg-guest-home-privacy-policy](https://www.linkedin.com/legal/privacy-policy?trk=uno-reg-guest-home-privacy-policy)
+* Opt-Out: [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out)
+* Privacy Shield: [https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&amp;status=Active)
 *****
+
 ## Sicherheitsmaßnahmen
 Wir treffen im Übrigen technische und organisatorische Sicherheitsmaßnahmen nach dem Stand der Technik, um die Vorschriften der Datenschutzgesetze einzuhalten und Ihre Daten gegen zufällige oder vorsätzliche Manipulationen, teilweisen oder vollständigen Verlust, Zerstörung oder gegen den unbefugten Zugriff Dritter zu schützen. 
 
