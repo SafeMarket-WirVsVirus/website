@@ -9,19 +9,29 @@
         align-items: center;
 
         & a.lang--selected {
-          color: $secondary;
+            color: $secondary;
         }
 
         & li {
             white-space: nowrap;
             list-style: none;
             font-size: 0.9rem;
-            &:first-child {
+            &::after {
+                content: '/';
+                margin: 0 0.15em;
+            }
+            &:only-child {
                 &::after {
-                    content: '/';
-                    margin: 0 0.15em;
+                    content: normal;
+                    margin: 0;
                 }
             }
+            &:last-child {
+              &::after {
+                  content: normal;
+                  margin: 0;
+              }
+          }
         }
     }
     > .nav-list {
