@@ -1,0 +1,9 @@
+safemarket.info {
+    root * /site
+    encode zstd gzip
+    file_server
+}
+
+www.safemarket.info {
+    redir https://safemarket.info{uri}
+}
