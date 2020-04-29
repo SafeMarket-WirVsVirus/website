@@ -7,9 +7,13 @@
         margin-left: 1.5em;
         display: flex;
         align-items: center;
+        
+        & a{
+            color: $black;
+        }
 
         & a.lang--selected {
-            color: $secondary;
+            color: $primary;
         }
 
         & li {
@@ -19,6 +23,7 @@
             &::after {
                 content: '/';
                 margin: 0 0.15em;
+                color: $black;
             }
             &:only-child {
                 &::after {
@@ -52,7 +57,7 @@
                 font-weight: regular;
                 text-transform: uppercase;
                 text-decoration: none;
-                color: $primary;
+                color: $secondary;
                 border-radius: 1000px;
                 &:hover {
                     background: $primary;
@@ -64,12 +69,12 @@
                 > a {
                     background: $primary;
                     text-decoration: none;
-                    color: #ffffff;
+                    color: $secondary;
                     &:hover {
                         text-decoration: none;
                         background: $primary;
                         transition: all 225ms ease-in 0s;
-                        color: #ffffff;
+                        color: $secondary;
                     }
                 }
             }
