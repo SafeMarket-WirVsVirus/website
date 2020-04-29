@@ -2,11 +2,8 @@
 title: 'Umsetzbarkeit'
 date: 2018-11-28T15:15:26+10:00
 icon: 'icons/repair-tools.svg'
-featured: true
+#featured: true
 draft: false
-heroHeading: 'Umsetzbarkeit'
-heroSubHeading: 'Ein enger Austausch ist uns wichtig'
-heroBackground: 'services/service1.jpg'
 ---
 
 Die MVP-Version unserer App für Ihre Kunden können Sie bereits im Google PlayStore testen. Die iOS-Version ist ebenfalls in der Entwicklung.

@@ -7,7 +7,15 @@
             <li><a href="{{ "/" | absLangURL }}">Home</a></li>
             <li><a href="{{ .Site.BaseURL }}impressum">Impressum</a></li>
             <li><a href="{{ .Site.BaseURL }}datenschutz">Datenschutzerklärung</a></li>
-            <li><a href="{{ .Site.BaseURL }}kontakt">Kontakt</a></li>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.footer }}
+            <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "footer" . }} active{{ end }}">
+              <a href="{{.URL}}">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+              </a>
+            </li>
+            {{end}}
             <li class="copyright">© {{ now.Format "2006" }} {{.Site.Title}}</li>
           </ul>
         </div>

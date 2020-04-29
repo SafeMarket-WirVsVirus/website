@@ -2,11 +2,8 @@
 title: 'Innovationsgrad'
 date: 2018-11-28T15:14:39+10:00
 icon: 'icons/idea.svg'
-featured: true
+#featured: true
 draft: false
-heroHeading: 'Innovationsgrad'
-heroSubHeading: 'SafeMarket beschreitet neue Wege'
-heroBackground: 'services/service2.jpg'
 ---
 
 In der aktuellen Situation steht der Einzelhandel vor enormen Herausforderungen: Erhöhte Nachfrage und steigendes Sicherheitsbedürfnis der Mitarbeiter und Kunden.

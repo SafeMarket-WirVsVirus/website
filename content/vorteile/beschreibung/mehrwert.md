@@ -3,11 +3,8 @@ title: 'Gesellschaftlicher Mehrwert'
 date: 2018-11-18T12:33:46+10:00
 icon: 'icons/user.svg'
 draft: false
-featured: true
+#featured: true
 weight: 1
-heroHeading: 'Gesellschaftlicher Mehrwert'
-heroSubHeading: 'Der Beitrag von SafeMarket'
-heroBackground: 'services/service1.jpg'
 ---
 
 Einkaufen muss jeder. Das führt dazu, dass viele Personen vor Ihrem Geschäft aufeinandertreffen, sich Warteschlangen bilden und eine hohe Ansteckungsgefahr besteht.

@@ -1,7 +1,10 @@
 ---
-title: 'Mitmachen'
+title: 'Kontakt'
+#footer-tile: 'Kontakt'
 date: 2018-02-22T17:01:34+07:00
 menu:
+  footer:
+    weight: 10
   main:
     weight: 40
 ---

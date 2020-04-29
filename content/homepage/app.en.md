@@ -2,8 +2,8 @@
 title: 'Stay in the queue - at home'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button1: 'Playstore'
-buttonLink1: 'appstore'
+playstoreText: 'Playstore'
+playstoreLink: 'https://play.google.com/store/apps/details?id=com.safe_market.reservation_system_customer'
 ---
 
-SafeMarket offers reponsible inhabitans a digital reservation-service, which reduces waiting queues and infections. Everyone can go shopping safely, during the corona crisis and after.
+SafeMarket offers responsible citizens a digital reservation service that minimizes queues and infections so that we can all shop safely in times of the Corona pandemic. Now available!
